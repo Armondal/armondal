@@ -2,7 +2,14 @@
 
 <p>Welcome to my github page! </br> I'm Arnab kumar mondal, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/128/321/321215.png" width="13"/> <b>Dhaka, Bangladesh</b> I have a huge love for React.js, Laravel, Headless Tech, Everything API, RDBMS, WordPress, TailwindCSS and System Architecture. Currently, <strong>I'm open to work and employment opportunities</strong>.</p>
 
-<h3>Things I code with</h3>
+- Prefered to be calledas **Arnab** 
+- Currently employed at **[selise.ch](https://selise.ch/)**, as a software engineer.
+- Started as full time developer since 2019.
+- Writing codes in various languages since 2017.
+- **PHP** is 💕 and Laravel/Lumen is the **bread and butter** for me.
+- I write APIs since 2018, I did know a bit but now I don't know **CSS**.
+
+### Things I code with
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/b18cd96f056a7af4213539108d08784f3e02e3eee1fbc0ea497d2364ca211806/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b"><img src="https://camo.githubusercontent.com/b18cd96f056a7af4213539108d08784f3e02e3eee1fbc0ea497d2364ca211806/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/bd28dbe28fea848509e8d45abd23916130462dc9236c3001967e61e76eab443c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/bd28dbe28fea848509e8d45abd23916130462dc9236c3001967e61e76eab443c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" alt="TypeScript" data-canonical-src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" style="max-width: 100%;"></a>
@@ -25,11 +32,18 @@
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/0d0a29d6ac28a158b0356adcdfe0aef35e7b0feb4b25a32058a80aab2801d60b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436c6f7564666c6172652d4633383032303f7374796c653d666c61742d737175617265266c6f676f3d436c6f7564666c617265266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/0d0a29d6ac28a158b0356adcdfe0aef35e7b0feb4b25a32058a80aab2801d60b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436c6f7564666c6172652d4633383032303f7374796c653d666c61742d737175617265266c6f676f3d436c6f7564666c617265266c6f676f436f6c6f723d7768697465" alt="Cloudflare" data-canonical-src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&amp;logo=Cloudflare&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
 
+### Things I do & like
+
+- Whenever I find that there is no package available for what I'm doing, I write it of my own. Or write one if I think will help others.
+- Whenever I learn a new thing, I try to write articles on that topic. So that others can learn easily from my articles.
+- I write packages & articles which are **free of all charges**.
+- During my leisure time, I browse facebook, listen to songs and play online pages (I know I can't play 🙄) on my phone.
+
 ![armondal's Stats](https://github-readme-stats.vercel.app/api?username=armondal&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 ![armondal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=armondal&theme=darcula&hide_border=true)
 ![armondal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armondal&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
-<h3> You can find me here: </h3>
+###  You can find me here: 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnab-kumar-mondal/) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/geek_arnab)
