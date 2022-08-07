@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643516190/22158/oh-hello.gif?1643516190" width="60"/> Hey there! Nice to see you.</h1>
 
-<p>Welcome to my github page! </br> I'm Arnab, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/128/321/321215.png" width="13"/> <b>Dhaka, Bangladesh</b> I have a huge love for React.js, Laravel, Headless Tech, Everything API, RDBMS, WordPress, TailwindCSS and System Architecture. Currently, <strong>I'm open to work and employment opportunities</strong>.</p>
+<p>Welcome to my github page! </br> I'm Arnab kumar mondal, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/128/321/321215.png" width="13"/> <b>Dhaka, Bangladesh</b> I have a huge love for React.js, Laravel, Headless Tech, Everything API, RDBMS, WordPress, TailwindCSS and System Architecture. Currently, <strong>I'm open to work and employment opportunities</strong>.</p>
 
 <h3>Things I code with</h3>
 
