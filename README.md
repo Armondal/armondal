@@ -1,13 +1,15 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1643516190/22158/oh-hello.gif?1643516190" width="60"/> Hey there! Nice to see you.</h1>
+# <img src="https://emojis.slackmojis.com/emojis/images/1643516190/22158/oh-hello.gif?1643516190" width="60"/> Hey there! Nice to see you.
 
-<p>Welcome to my github page! </br> I'm Arnab kumar mondal, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/128/321/321215.png" width="13"/> <b>Dhaka, Bangladesh</b> I have a huge love for React.js, Laravel, Headless Tech, Everything API, RDBMS, WordPress, TailwindCSS and System Architecture. Currently, <strong>I'm open to work and employment opportunities</strong>.</p>
+## Welcome to my github page! 
+### I'm Arnab Kumar Mondal, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/128/321/321215.png" width="13"/> <b>Dhaka, Bangladesh</b>  
 
 - Prefered to be calledas **Arnab** 
 - Currently employed at **[selise.ch](https://selise.ch/)**, as a software engineer.
 - Started as full time developer since 2019.
 - Writing codes in various languages since 2017.
 - **PHP** is 💕 and Laravel/Lumen is the **bread and butter** for me.
-- I write APIs since 2018, I did know a bit but now I don't know **CSS**.
+- I also 💕 **JS**  and React,Redux
+
 
 ### Things I code with
 
@@ -42,6 +44,8 @@
 ![armondal's Stats](https://github-readme-stats.vercel.app/api?username=armondal&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 ![armondal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=armondal&theme=darcula&hide_border=true)
 ![armondal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armondal&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+
+## I'm open to work and employment opportunities
 
 ###  You can find me here: 
 
