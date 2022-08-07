@@ -30,6 +30,7 @@
 ![armondal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armondal&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
 <h3> You can find me here: </h3>
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnab-kumar-mondal/) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/geek_arnab)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/arnabcoder/)
