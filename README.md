@@ -1,7 +1,6 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1643516190/22158/oh-hello.gif?1643516190" width="60"/> Hey there! Nice to see you.
 
-## Welcome to my github page! 
-### I'm Arnab Kumar Mondal, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/128/321/321215.png" width="13"/> <b>Dhaka, Bangladesh</b>  
+### I'm Arnab Kumar Mondal, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/128/321/321215.png" width="13"/> <b>Dhaka, Bangladesh</b>.  I love writing code, learning new things and also movie.
 
 - Prefered to be calledas **Arnab** 
 - Currently employed at **[selise.ch](https://selise.ch/)**, as a software engineer.
