@@ -40,9 +40,8 @@
 - I write packages & articles which are **free of all charges**.
 - During my leisure time, I browse facebook, listen to songs and play online pages (I know I can't play 🙄) on my phone.
 
-![armondal's Stats](https://github-readme-stats.vercel.app/api?username=armondal&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 ![armondal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=armondal&theme=darcula&hide_border=true)
-![armondal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armondal&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+
 
 ## I'm open to work and employment opportunities
 
