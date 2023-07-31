@@ -6,7 +6,6 @@
 - Currently employed at **[selise.ch](https://selise.ch/)**, as a software engineer.
 - Started as full time developer since 2019.
 - Writing codes in various languages since 2017.
-- **PHP** is 💕 and Laravel/Lumen is the **bread and butter** for me.
 - I also 💕 **JS**  and React,Redux
 
 
