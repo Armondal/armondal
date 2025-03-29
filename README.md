@@ -4,7 +4,7 @@
 
 - Prefered to be called as **Arnab** 
 - Currently employed at **[corebridgesolutions](https://corebridgesolutions.com/)**, as a software engineer.
-- Started as full time developer since 2019.
+- Started as full time wordpress developer since 2019.
 - Writing codes in various languages since 2017.
 - I also 💕 **JS**  and React,Redux
 
